@@ -1,1 +1,1 @@
-# Secure-Messaging-Application
+# This project is focused on developing a secure messaging application that leverages advanced encryption techniques to ensure the privacy and integrity of user communications. By using robust cryptographic algorithms, secure key generation methods, and integrating a reliable SMS API, we aim to create a user-friendly platform that guarantees secure messaging.
